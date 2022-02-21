@@ -1,0 +1,10 @@
+:root {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    justify-content: center;
+}
