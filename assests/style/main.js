@@ -7,3 +7,7 @@ function performSomething() {
   count = count + 1
   number.innerHTML = count
 }
+function removeSomething(){
+    count = count - 1
+  number.innerHTML = count
+}
