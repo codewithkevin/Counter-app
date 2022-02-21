@@ -5,6 +5,18 @@
     color: white;
 }
 
-h1 {
-    justify-content: center;
+.container {
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 200px 0 0 10px;
+}
+
+#press {
+    border-radius: 26.5px;
+	background-color: #001F61;
+	border: 1px solid #001F61;
+	box-shadow: 0 16px 22px -17px #03153B;
+	color: #fff;
+	cursor: pointer;
+	font-size: 20px;
 }
